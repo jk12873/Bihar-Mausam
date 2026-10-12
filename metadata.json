@@ -1,0 +1,6 @@
+{
+  "name": "Bihar Mausam",
+  "description": "Real-time weather, hourly forecasts, and 7-day outlook for all 38 districts of Bihar with offline caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
