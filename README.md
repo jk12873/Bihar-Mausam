@@ -294,10 +294,6 @@ Contributions, bug reports, and suggestions are welcome.
 4. Verify the build and relevant tests.
 5. Open a pull request describing the change.
 
-## 📄 License
-
-Add a `LICENSE` file to specify the license for this application's source code. Unless a license is included, others should not assume that the app's code is available for unrestricted reuse. Weather data and third-party dependencies remain subject to their own licenses and terms.
-
 ## 🙌 Acknowledgements
 
 - [Open-Meteo](https://open-meteo.com/) for weather forecast data.
