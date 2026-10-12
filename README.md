@@ -222,33 +222,6 @@ For a manually downloaded APK, open it on the Android device and follow the inst
 
 Do not add API keys, signing keys, passwords, or other secrets to the repository. The standard Open-Meteo forecast endpoint does not require an API key for typical non-commercial use; verify current provider terms for your intended use.
 
-## 🗂️ Suggested repository structure
-
-```text
-.
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/                 # Kotlin source code
-│   │   │   ├── res/                  # Android resources
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/                     # Unit tests
-│   └── build.gradle.kts
-├── screenshots/
-│   ├── home.png
-│   ├── hourly.png
-│   ├── forecast-7-day.png
-│   ├── districts.png
-│   ├── analytics.png
-│   └── settings.png
-├── Bihar-Mausam.apk                  # Example: use your actual APK filename
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
-```
-
-This is a suggested layout, not a claim about the exact current contents of the repository. Update it to reflect your actual files.
-
 ## 🧪 Testing
 
 The project is configured to use JUnit 4 and Robolectric for unit tests. Run:
