@@ -8,11 +8,11 @@ A native Android weather application for exploring current conditions, hourly fo
 
 Screenshots of the application are included below to demonstrate the interface and its main features.
 
-<img width="1226" height="2560" alt="telegram-cloud-photo-size-5-6226256928027907208-w" src="https://github.com/user-attachments/assets/21a15ea8-13e9-4b26-af91-c098e651de90" />
-<img width="1210" height="2560" alt="telegram-cloud-photo-size-5-6226256928027907211-w" src="https://github.com/user-attachments/assets/4b8f0817-c4c6-45a4-a303-9e01e0e6deae" />
-<img width="1224" height="2560" alt="telegram-cloud-photo-size-5-6226256928027907212-w" src="https://github.com/user-attachments/assets/6a046184-9fe4-4c2b-86e2-7298d9f7f047" />
-<img width="1202" height="2560" alt="telegram-cloud-photo-size-5-6226256928027907210-w" src="https://github.com/user-attachments/assets/630703e1-74e6-4ceb-b3d8-1225e201ceef" />
-<img width="1232" height="2560" alt="telegram-cloud-photo-size-5-6226256928027907209-w" src="https://github.com/user-attachments/assets/cbe4685e-ca09-4ec5-b020-d1a30bdbf970" />
+<img width="500" height="500" alt="telegram-cloud-photo-size-5-6226256928027907208-w" src="https://github.com/user-attachments/assets/21a15ea8-13e9-4b26-af91-c098e651de90" />
+<img width="500" height="500" alt="telegram-cloud-photo-size-5-6226256928027907211-w" src="https://github.com/user-attachments/assets/4b8f0817-c4c6-45a4-a303-9e01e0e6deae" />
+<img width="500" height="500" alt="telegram-cloud-photo-size-5-6226256928027907212-w" src="https://github.com/user-attachments/assets/6a046184-9fe4-4c2b-86e2-7298d9f7f047" />
+<img width="500" height="500" alt="telegram-cloud-photo-size-5-6226256928027907210-w" src="https://github.com/user-attachments/assets/630703e1-74e6-4ceb-b3d8-1225e201ceef" />
+<img width="500" height="500" alt="telegram-cloud-photo-size-5-6226256928027907209-w" src="https://github.com/user-attachments/assets/cbe4685e-ca09-4ec5-b020-d1a30bdbf970" />
 
 
 ## 📦 Download APK
